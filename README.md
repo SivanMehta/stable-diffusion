@@ -34,4 +34,16 @@
 
 <hr />
 
+> Photo of Xenomorph Drogon in game of thrones hybrid. High detail, photorealistic, trending on deviantArt, raytraced
+
+![](./pics/7.png)
+
+<hr />
+
+> kitten taking an afternoon nap in sun-lit sunflower. High detail, photorealistic, 8k blender render
+
+![](./pics/8.png)
+
+<hr />
+
 All of these images were generated using [this Google Colab](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK)
