@@ -22,4 +22,10 @@
 
 <hr />
 
+> corner office, floor to ceiling windows in a highrise apartment, sunset over the mountains, 4k photography
+
+![](./pics/5.png)
+
+<hr />
+
 All of these images were generated using [this Google Colab](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK)
