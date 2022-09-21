@@ -46,4 +46,11 @@
 
 <hr />
 
-All of these images were generated using [this Google Colab](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK)
+> ferrari minivan driving past mountains in Iceland, waterfalls in background, mad max post apocalyptic lighting, intricate, elegant, highly detailed, photorealistic, digital painting, artstation, concept art, smooth, sharp focus, illustration, octane render, unreal engine
+
+![](./pics/9.png)
+
+<hr />
+
+
+All of these images were generated using either [this Google Colab](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK) or [this hugging face space](https://huggingface.co/spaces/stabilityai/stable-diffusion)
