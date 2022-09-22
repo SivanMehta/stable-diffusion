@@ -52,5 +52,16 @@
 
 <hr />
 
+> tree house, frank lloyd wright, architecture, streaks of light, misty fog
+
+![](./pics/10.png)
+
+<hr />
+
+> Fantasy art, octane render, 16k, underwater, coral reef, with aqua water, silver Guggenheim museum spire, rays of sunshine, tall building, zaha hadid and Santiago calatrava, schools of tropical fish,3d cgi, high definition, bright lighting
+
+![](./pics/11.png)
+
+<hr />
 
 All of these images were generated using either [this Google Colab](https://colab.research.google.com/drive/1zVTa4mLeM_w44WaFwl7utTaa6JcaH1zK) or [this hugging face space](https://huggingface.co/spaces/stabilityai/stable-diffusion)
